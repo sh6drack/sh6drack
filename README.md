@@ -2,7 +2,7 @@ Hi! 👋🏾
 
 My name is Shadrack Annor. I’m a backend developer and student at Brown ('27), studying Computer Science & Contemplative Studies. I build backend systems for discovery, connection, therapuetic tech.
 
-You can reach me at shadrackannor12@gmail.com
+You can reach me at shadrack@brown.edu.
 
 <!--
 **sh6drack/sh6drack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
