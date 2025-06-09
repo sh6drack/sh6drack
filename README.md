@@ -1,6 +1,6 @@
 Hi! 👋🏾 
 
-My name is Shadrack Annor. I’m a backend developer and student at Brown ('27), studying Computer Science & Contemplative Studies. I build backend systems for discovery, connection, therapuetic tech.
+My name is Shadrack Annor. I’m a backend developer and student at Brown ('27), studying Computer Science & Religous Studies. I contribute to research at DSI @ brown centered on algorthmic bias & ai ethics. I also build various sociotechnical systems and AI tools.
 
 You can reach me at shadrack@brown.edu.
 
